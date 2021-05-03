@@ -22,5 +22,4 @@ Press Control C to stop the server or the builder
 Turn on github pages and put a link to your site in the readme when you turn in the github repo link.
 
 Working site here:
-
 http://www.webizly.com/BasicWebPack/
